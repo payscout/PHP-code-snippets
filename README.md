@@ -13,13 +13,13 @@ Please contact you Payscout Support Representative for assistance in matching yo
 
 ## Table of Contents
 
-1. [Prerequisites](#Prerequisites)
-1. [Auth Example](#Auth Example)
-1. [Capture Example](#Capture Example)
-1. [Credit Example](#Credit Example)
-1. [Void Example](#Void Example)
-1. [Sale Example](#Sale Example)
-1. [Refund Example](#Refund Example)
+1. [Prerequisites](#prerequisites)
+1. [Auth Example](#auth)
+1. [Capture Example](#capture)
+1. [Credit Example](#credit)
+1. [Void Example](#void)
+1. [Sale Example](#sale)
+1. [Refund Example](#refund)
 
 ##Prerequisites
 
