@@ -10,7 +10,7 @@ curl_setopt_array($curl, array(
   CURLOPT_TIMEOUT => 30,
   CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
   CURLOPT_CUSTOMREQUEST => "POST",
-  CURLOPT_POSTFIELDS => "client_username={yourUsername}&client_password={yourPassword}&client_token=token&processing_type=REFUND¤cy=USD&initial_amount=99.99&original_transaction_id=A0001FFCDJ9",
+  CURLOPT_POSTFIELDS => "client_username={yourUsername}&client_password={yourPassword}&client_token=token&processing_type=REFUND&currency=USD&initial_amount=99.99&original_transaction_id=A0001FFCDJ9",
   CURLOPT_HTTPHEADER => array(
     "cache-control: no-cache",
     "content-type: application/x-www-form-urlencoded"
